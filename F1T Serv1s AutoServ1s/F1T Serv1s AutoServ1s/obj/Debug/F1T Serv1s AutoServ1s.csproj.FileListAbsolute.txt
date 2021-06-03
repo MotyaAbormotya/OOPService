@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\F1T Serv1s AutoServ1s\F1T Serv1s AutoServ1s\bin\Debug\F1T Serv1s AutoServ1s.exe.config
+C:\Users\User\source\repos\F1T Serv1s AutoServ1s\F1T Serv1s AutoServ1s\bin\Debug\F1T Serv1s AutoServ1s.exe
+C:\Users\User\source\repos\F1T Serv1s AutoServ1s\F1T Serv1s AutoServ1s\bin\Debug\F1T Serv1s AutoServ1s.pdb
+C:\Users\User\source\repos\F1T Serv1s AutoServ1s\F1T Serv1s AutoServ1s\obj\Debug\F1T Serv1s AutoServ1s.csprojAssemblyReference.cache
+C:\Users\User\source\repos\F1T Serv1s AutoServ1s\F1T Serv1s AutoServ1s\obj\Debug\F1T Serv1s AutoServ1s.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\F1T Serv1s AutoServ1s\F1T Serv1s AutoServ1s\obj\Debug\F1T Serv1s AutoServ1s.exe
+C:\Users\User\source\repos\F1T Serv1s AutoServ1s\F1T Serv1s AutoServ1s\obj\Debug\F1T Serv1s AutoServ1s.pdb
